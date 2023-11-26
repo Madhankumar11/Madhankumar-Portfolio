@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Madhankumar-Portfolio/static/css/main.dedd891a.css",
+    "main.js": "/Madhankumar-Portfolio/static/js/main.c397aeb1.js",
+    "static/media/41.jpg": "/Madhankumar-Portfolio/static/media/41.6c5dad683cbcdabb7f61.jpg",
+    "static/media/dosa.jpg": "/Madhankumar-Portfolio/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/1.avif": "/Madhankumar-Portfolio/static/media/1.8ee6896dd2f4f8e1c036.avif",
+    "static/media/1.jpg": "/Madhankumar-Portfolio/static/media/1.3c1e569816eefd35faca.jpg",
+    "index.html": "/Madhankumar-Portfolio/index.html",
+    "main.dedd891a.css.map": "/Madhankumar-Portfolio/static/css/main.dedd891a.css.map",
+    "main.c397aeb1.js.map": "/Madhankumar-Portfolio/static/js/main.c397aeb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dedd891a.css",
+    "static/js/main.c397aeb1.js"
+  ]
+}
