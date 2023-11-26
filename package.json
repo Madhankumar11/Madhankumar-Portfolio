@@ -2,7 +2,7 @@
   "name": "madhankumar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Madhankumar11.github.io/Foodapp",
+  "homepage": "https://Madhankumar11.github.io/Madhan-Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -12,16 +12,15 @@
     "react-icons": "^4.12.0",
     "react-router-dom": "^6.20.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "web-vitals": "^2.1.4"
+    
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run deploy",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
